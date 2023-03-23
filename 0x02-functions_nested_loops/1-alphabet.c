@@ -2,7 +2,9 @@
 
 /**
  *print_alphabet : prit all alphabet in lowercase
+ *
  *description using _putchar user define function
+ *return : void
  */
 void print_alphabet(void)
 {
