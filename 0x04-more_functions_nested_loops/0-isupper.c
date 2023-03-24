@@ -2,7 +2,7 @@
 
 /**
  * _isupper - uppercase character
- * @c: char to checked
+ * @c: char to check
  *
  * Return: 1 or 0 
  */
@@ -14,4 +14,5 @@
             else
              return (0);     
  }
+
 
