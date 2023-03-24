@@ -1,18 +1,12 @@
 #include "main.h"
-
 /**
- * main.c - test positive_or_negative()
- *
- * Return:0
- */
-
-int main.c(void)
+* main - Test function for positive or negative
+* Return: 0
+*/
+int main(void)
 {
-	int n;
-        
-        n = 0;
-
-	positive_or_negative(n);
-
-	return (0);	
-{
+int i;
+i = 0;
+positive_or_negative(i);
+return (0);
+}
