@@ -9,6 +9,8 @@
 int main.c(void)
 {
 	int n;
+        
+        n = 0;
 
 	positive_or_negative(n);
 
