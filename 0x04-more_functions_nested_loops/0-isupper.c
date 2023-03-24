@@ -4,7 +4,7 @@
  * _isupper - uppercase letters
  * @c: char to check
  *
- * Return: 1 or 0
+ * Return: 0 or 1
  */
 
  int _isupper(int c)
