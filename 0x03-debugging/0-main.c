@@ -5,6 +5,7 @@
  *
  * Return:0
  */
+
 int main.c(void)
 {
 	int n;
